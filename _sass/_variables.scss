@@ -16,7 +16,7 @@
   --color-background-hover: hsla(182, 84%, 32%, 0.1);
   --color-selection: hsla(182, 84%, 32%, 0.1);
 
-  --color-primary: hsl(0, 0%, 10%);
+  --color-primary: #2a4876; /*hsl(0, 0%, 10%);*/
 
   --color-muted: rgba(88,113,79,.8);
   --color-faint: rgba(88,113,79,.4);
@@ -32,10 +32,10 @@
 }
 
 .theme-dark {
-  --color-background-primary: #1238a1;
+  --color-background-primary: #0f5083;
   --color-background-secondary: rgba(255,255,255,0.05);
 
-  --color-primary: #ebbec3;
+  --color-primary: #89f590;
 
   --color-muted: rgba(158,176,136,.8);
   --color-faint: rgba(158,176,136,.4);

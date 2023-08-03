@@ -5,6 +5,8 @@ id: home
 permalink: /
 ---
 
-## Businesses committed to packaging sustainability
+<p> Stuff here is mostly for my own future reference, but hopefully it's useful. </p>
 
-Slash Packaging is an open source directory of businesses that offer packaging sustainability information on their website at the URL */packaging*. <a href="/about" class="muted internal-link">Learn more.</a>
+<p> Contact me via <a href="mailto:kbaah@protonmail.com">email</a>, if you'd like, or on <a href = "twitter.com/k3baah">Twitter. </a> </p>
+
+## Posts

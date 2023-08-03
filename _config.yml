@@ -1,10 +1,10 @@
-name:                Stephan Ango
-title:               Slash Packaging
-twitter:             slashpackaging
+name:                Kofi Baah
+title:               Kofi Baah
+twitter:             k3baah
 domain:              slashpackaging.org
 url:                 https://slashpackaging.org
 include:             ['_pages','_redirects']
-metadescription:     "Slash Packaging is a directory of businesses that offer packaging sustainability information on their website at the URL /packaging"
+metadescription:     "Kofi Baah's Blog"
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub

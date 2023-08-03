@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Goods
+title: testing!
 permalink: /testing
 domain: publicgoods.com
 status: live
